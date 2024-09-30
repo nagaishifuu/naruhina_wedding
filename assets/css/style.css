@@ -389,6 +389,11 @@ body.transition {
   height: 100%;
 }
 
+iframe {
+  border: 15px var(--pink);
+  border-radius: 15px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* adds a subtle shadow effect */
+}
 
 #gift-section img {
 	width: 100%;
