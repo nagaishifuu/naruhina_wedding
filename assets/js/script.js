@@ -64,7 +64,7 @@ function toggleMusic(event) {
 }
 
 // countdown wedding
-var countdownDate = new Date("Oct 10, 2024 10:30").getTime()
+var countdownDate = new Date("Nov 10, 2024 10:30").getTime()
 
 var x = setInterval(function () {
 	var now = new Date().getTime()
